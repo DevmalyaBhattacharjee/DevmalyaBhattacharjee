@@ -38,8 +38,8 @@ public class Introduction {
 ### 💼 Experience
 
 * **100+ hours** dedicated to problem-solving on LeetCode & other platforms
-* **Participant** — Smart India Hackathon 2024
-* Developed multiple **full-stack projects** integrating modern tech stacks
+* **Participant** — Smart India Hackathon 2024 & 2025
+* Developed multiple **Full-stack projects** integrating modern tech stacks
 
 ---
 
@@ -58,7 +58,6 @@ public class Introduction {
 ![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -71,9 +70,8 @@ public class Introduction {
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)]((https://www.linkedin.com/in/devmalya-bhattacharjee-66a21927a/))
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge\&logo=twitter\&logoColor=white)]((https://x.com/DevmalyaBh69215))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debmalyabhattacharya17.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=white)](PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=white)](https://devmalya-portfolio.vercel.app/)
 
 ---
 
