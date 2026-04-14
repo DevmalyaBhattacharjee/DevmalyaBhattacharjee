@@ -17,27 +17,29 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout repository
+      # Step 1: Checkout
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate Snake Animation
+      # Step 2: Get current year dynamically
+      - name: Get current year
+        run: echo "YEAR=$(date +'%Y')" >> $GITHUB_ENV
+
+      # Step 3: Generate Snake with dynamic year
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: DevmalyaBhattacharjee
-          from: 2026-01-01
-          to: 2026-12-31
-
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+          from: ${{ env.YEAR }}-01-01
+          to: ${{ env.YEAR }}-12-31
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy to output branch
+      # Step 4: Deploy
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
