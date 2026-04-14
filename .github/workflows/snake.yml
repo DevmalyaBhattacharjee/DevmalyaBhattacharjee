@@ -2,8 +2,8 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:      # Allow manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -17,20 +17,23 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout the repository
+      # Step 1: Checkout repository
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate Snake Animation (SVG + GIF)
+      # Step 2: Generate Snake Animation
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          contribution_range: this_year
+          github_user_name: DevmalyaBhattacharjee
+          from: 2026-01-01
+          to: 2026-12-31
+
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
