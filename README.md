@@ -1,6 +1,7 @@
 [![LinkedIn Banner](./banner_github.png)](https://www.linkedin.com/in/devmalya-bhattacharjee-66a21927a/)
 
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/devmalya-bhattacharjee-66a21927a/)
+🔗 Check out my portfolio: [Portfolio](https://devmalya-portfolio.vercel.app/)
 
 # 👋 Hello Devs! I'm Devmalya
 
@@ -46,6 +47,21 @@ public class Introduction {
 ## 🚀 Featured Projects
 
 
+###💰 FinTrack – AI-Powered Personal Finance Management System
+
+- Role-based system (User, Admin)
+- AI-driven expense categorization & insights
+- Real-time transaction tracking dashboard
+- Tech: Spring Boot, React, MySQL
+- Status: Completed & Deployed
+
+**🔗 Live Links:**
+
+* 🌐 Live: [Link](http://fintrack-finance-db.vercel.app/)
+* 📂 GitHub: [GitHub](https://github.com/DevmalyaBhattacharjee/Fintrack)
+
+---
+
 ### 🏥 AI Powered Clinic Management System
 - Role-based system (Admin, Doctor, Patient)
 - AI chatbot for symptom analysis
@@ -64,8 +80,6 @@ public class Introduction {
 ---
 
 ### 🛠 Tech Stack
-
-## 🛠 Tech Stack
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -103,11 +117,7 @@ public class Introduction {
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DevmalyaBhattacharjee&show_icons=true&theme=tokyonight)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevmalyaBhattacharjee&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevmalyaBhattacharjee&layout=compact&theme=tokyonight)
 
 ---
 
@@ -139,6 +149,3 @@ public class Introduction {
 
 💼 Open to internships & collaboration  
 🚀 Always working on impactful projects  
-
-👉 Check out my portfolio:  
-🔗  [Portfolio](https://devmalya-portfolio.vercel.app/)
