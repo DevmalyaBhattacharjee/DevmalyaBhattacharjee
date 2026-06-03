@@ -38,8 +38,8 @@ public class Introduction {
 
 ### 💼 Experience
 
-* **150+ hours** dedicated to problem-solving on LeetCode & other platforms
-* **Participant** — Smart India Hackathon 2024 & 2025
+* **150+** problems solved on LeetCode, GeeksForGeeks & other platforms
+* **Participant** — Smart India Hackathon 2024 & 2025, Cognizant Technoverse hackathon and many others
 * Developed multiple **Full-stack projects** integrating modern tech stacks
 
 ---
@@ -47,12 +47,12 @@ public class Introduction {
 ## 🚀 Featured Projects
 
 
-###💰 FinTrack – AI-Powered Personal Finance Management System
+### 💰 FinTrack – AI-Powered Personal Finance Management System
 
 - Role-based system (User, Admin)
 - AI-driven expense categorization & insights
 - Real-time transaction tracking dashboard
-- Tech: Spring Boot, React, MySQL
+- Tech: Spring Boot, React, MySQL, Groq AI API
 - Status: Completed & Deployed
 
 **🔗 Live Links:**
@@ -71,10 +71,11 @@ public class Introduction {
 
 ---
 
-### 🌪 Disaster Insurance Platform
-- Real-time climate risk pricing
-- Automated payouts (no manual claims)
-- Explainable ML models  
+### 🌾 Krishi Saathi – AI-Powered Farming Assistant
+- Intelligent crop advisory based on location and crop data
+- Weather forecasting, fertilizer guidance, and market price insights
+- Retrieval-Augmented Generation (RAG) using Spring AI and PGVector
+- Secure farmer-specific data isolation with JWT-based authentication
 - Status: Currently Building
 
 ---
